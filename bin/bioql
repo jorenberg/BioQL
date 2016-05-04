@@ -1,0 +1,18 @@
+#!/usr/bin/env node
+
+
+/*!
+ * BioQL®: An efficient Query Language for interpreting genome and proteome.
+ * @version   : [1.0.0]
+ * ___________________________________________________________________________
+ * CB2L®
+ * ~~~~~
+ * Computational Biology and Bioinformatics Laboratory
+ * Υπολογιστικής Βιολογίας και Βιοπληροφορικής Εργαστήριο
+ * ___________________________________________________________________________
+ * Architecture and Code Handcrafted by Prabhat Kumar.
+ * Architectuur en Code handgemaakt door Prabhat Kumar.
+ * @author    : Prabhat Kumar [http://prabhatkumar.org/]
+ * @copyright : Sequømics Corporation [http://sequomics.com/]
+ * ___________________________________________________________________________
+ */
