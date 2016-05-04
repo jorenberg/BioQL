@@ -16,3 +16,6 @@
  * @copyright : Sequømics Corporation [http://sequomics.com/]
  * ___________________________________________________________________________
  */
+
+
+var path  = require('path');
