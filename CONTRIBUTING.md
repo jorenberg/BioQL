@@ -13,3 +13,11 @@ Once you’re ready:
 * Add your repository as a remote: `git remote add your_remote your_repo`,
 * Push up your branch: `git push your_remote awesome_feature`, and
 * Create a Pull Request for the topic branch, asking for review.
+
+Once it’s accepted:
+* If you want access to the core repository feel free to ask!
+* Then you can change origin to point to the Read+Write URL:
+```
+git remote set-url origin git@github.com:BioQL/BioQL.git
+```
+Otherwise, you can continue to hack away in your own fork.
