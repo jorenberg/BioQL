@@ -44,3 +44,13 @@ To work on BioQL®, we're encouraging you to start working on Mac OS X.
     `npm install`
 
 <b>Now, Do only</b> `$ sh build.sh`, it will do everything for you to go with...
+
+### Contacting with Us
+If you're feeling any problem, please feel free to writing at [admin@sequomics.com](mailto:admin@sequomics.com).
+
+Thanks,
+```
+  CB2L®
+  Computational Biology and Bioinformatics Laboratory,
+  Sequømics Corporation, http://sequomics.com/.
+```
