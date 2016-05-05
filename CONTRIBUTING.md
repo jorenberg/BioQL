@@ -26,3 +26,21 @@ Otherwise, you can continue to hack away in your own fork.
 **Contributions WILL NOT be accepted without tests.**
 
 If you haven't tested before, start reading up in the `test/` directory to see what's going on. If you've got good links regarding TDD or testing in general feel free to add them here!
+
+## Development Setup
+To work on BioQL®, we're encouraging you to start working on Mac OS X.
+
+### Environment (Mac OS X)
+* Install Node.js® from https://nodejs.org/en/download/,
+* Install NPM from https://www.npmjs.com/,
+* Install Grunt-cli using Terminal `$ npm install -g grunt-cli`, and
+* Install Karma using Terminal `$ npm install -g karma-cli`.
+
+### Getting the code
+* Clone the repo: `git clone git@github.com:BioQL/BioQL.git`
+* Move into your cloned BioQL directory, if you haven’t already:
+    `cd BioQL`
+* Install dependencies:
+    `npm install`
+
+<b>Now, Do only</b> `$ sh build.sh`, it will do everything for you to go with...
