@@ -21,3 +21,8 @@ Once it’s accepted:
 git remote set-url origin git@github.com:BioQL/BioQL.git
 ```
 Otherwise, you can continue to hack away in your own fork.
+
+### Acceptance
+**Contributions WILL NOT be accepted without tests.**
+
+If you haven't tested before, start reading up in the `test/` directory to see what's going on. If you've got good links regarding TDD or testing in general feel free to add them here!
