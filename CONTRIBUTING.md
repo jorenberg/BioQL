@@ -7,3 +7,9 @@ To begin contributing to BioQL® open source projects, you and/or your employer 
 * Create a topic branch: `git checkout -b awesome_feature`,
 * Commit your changes, and
 * Keep up to date: `git fetch && git rebase origin/master`.
+
+Once you’re ready:
+* Fork the project on GitHub,
+* Add your repository as a remote: `git remote add your_remote your_repo`,
+* Push up your branch: `git push your_remote awesome_feature`, and
+* Create a Pull Request for the topic branch, asking for review.
