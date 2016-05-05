@@ -41,3 +41,9 @@
 
 // Note: To import project metadata into the -/Grunt/- config.
 // @require   : package.json
+
+// Grunt Task(s):--------------------------------------------------------------
+// 1. Task for "Build and Lint" - CoffeeScript and JavaScript,
+// 2. Task for "Update" - devDependencies and dependencies automatically,
+// 3. Task for "Travis CI", using ".travis.yml" from root, and
+// ----------------------------------------------------------------------------
