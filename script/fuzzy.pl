@@ -11,3 +11,5 @@ use strict;
 use warnings;
 use utf8;
 use File::Spec;
+
+use version; our $VERSION = version->parse("1.0.0");
