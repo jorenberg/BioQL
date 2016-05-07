@@ -7,3 +7,4 @@
 # Copyright : Sequømics Corporation [http://sequomics.com/].
 
 use 5.18.2;
+use strict;
