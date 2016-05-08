@@ -13,3 +13,13 @@ use utf8;
 use File::Spec;
 
 use version; our $VERSION = version->parse("1.0.0");
+
+
+# -------- \\
+# Synopsis  \\
+# ----------------------------------------------------------------------------
+# 1. To read the DNA/RNA/Protein "FASTA" formatted sequence file,            |
+# 2. To get the DNA/RNA/Protein sequence, from database                      |
+# 3. To covert sequence(s) in different formats,                             |
+# 4. To store the result(s).                                                 |
+# ----------------------------------------------------------------------------
