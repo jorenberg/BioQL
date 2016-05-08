@@ -23,3 +23,5 @@ use version; our $VERSION = version->parse("1.0.0");
 # 3. To covert sequence(s) in different formats,                             |
 # 4. To store the result(s).                                                 |
 # ----------------------------------------------------------------------------
+
+use open OUT => ':utf8', ':std';
